@@ -4,7 +4,7 @@ A responsive React & JavaScript directory dashboard built with Tailwind CSS, Luc
 
 ## Live Deployment Links
 
-https://user-management-dashboard-ashy-ten.vercel.app/
+** Vercel Development Link:    https://user-management-dashboard-ashy-ten.vercel.app/
 
 ## Key Features
 
